@@ -6,3 +6,5 @@
 
 [node name="Player" parent="." unique_id=1437401120 instance=ExtResource("1_uytta")]
 position = Vector2(546, 305)
+speed = 275.0
+acceleration = 1250.0
